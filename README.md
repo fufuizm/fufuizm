@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Infrastructure+as+Code+%F0%9F%8F%97%EF%B8%8F;Kubernetes+%26+Container+Orchestration+%E2%98%B8%EF%B8%8F;CI%2FCD+Pipeline+Architecture+%F0%9F%9A%80;Network+Automation+%26+Security+%F0%9F%94%92)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=fufuizm&color=58a6ff&style=flat-square&label=Profile+Views)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkansarica/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fufuizm)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarica.furkan@icloud.com)
@@ -18,7 +20,7 @@
 name: Furkan SARICA
 role: DevOps / Cloud / Network Engineer
 education: Management Information Systems
-location: Turkey
+location: Istanbul, Turkey
 current_focus:
   - Kubernetes cluster management & GitOps
   - Cloud infrastructure automation (AWS)
@@ -102,6 +104,16 @@ experience:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fufuizm&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufuizm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fufuizm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a6bcc&hide_border=true" width="100%"/>
 
 </div>
 
