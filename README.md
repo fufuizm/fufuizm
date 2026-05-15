@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Furkan%20SARICA&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Network%20Engineer&descSize=18&descColor=8b949e&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:238636&height=220&section=header&text=Furkan%20SARICA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MIS%20Student%20%7C%20DevOps%20%2B%20Cloud%20%2B%20Network%20%7C%20ERP%2FCRM%20%2B%20AI%20Business%20Systems&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Infrastructure+as+Code+%F0%9F%8F%97%EF%B8%8F;Kubernetes+%26+Container+Orchestration+%E2%98%B8%EF%B8%8F;CI%2FCD+Pipeline+Architecture+%F0%9F%9A%80;Network+Automation+%26+Security+%F0%9F%94%92)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-supported+business+systems;Designing+DevOps%2C+cloud+and+network+infrastructure;Connecting+ERP%2FCRM+workflows+with+real+technical+operations;Turning+project+ideas+into+production-minded+systems)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fufuizm&color=58a6ff&style=flat-square&label=Profile+Views)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkansarica/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-sarica/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fufuizm)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarica.furkan@icloud.com)
 
@@ -14,122 +14,106 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About
+
+I am a Management Information Systems student focused on the point where **business workflows meet technical infrastructure**.
+
+My work combines **DevOps, cloud infrastructure, network engineering, ERP/CRM systems, Linux-based operations, full-stack development, and AI-assisted business applications**. I like building systems that are not only technically clean, but also useful for real operational processes.
 
 ```yaml
 name: Furkan SARICA
-role: DevOps / Cloud / Network Engineer
 education: Management Information Systems
-location: Istanbul, Turkey
-current_focus:
-  - Kubernetes cluster management & GitOps
-  - Cloud infrastructure automation (AWS)
-  - CI/CD pipeline optimization
-  - Network automation & monitoring
-experience:
-  - Linux system administration
-  - Container orchestration (Docker/K8s)
-  - Infrastructure as Code (Terraform)
-  - Network engineering & security
-  - CI/CD pipeline design
+location: Istanbul, Turkiye
+focus:
+  - DevOps, cloud and network engineering
+  - ERP/CRM and enterprise business systems
+  - AI-supported productivity and decision-support tools
+  - Linux, containers, observability and automation
+current_direction:
+  - Roadmind: AI project prompt studio for coding agents
+  - vHealth: AI-powered personal health assistant concept
+  - vCalendar: AI-powered scheduling and productivity assistant
+  - ERPNext: self-hosted ERP operations architecture
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
+
+| Area | Focus | Tools & Concepts |
+| --- | --- | --- |
+| AI Business Systems | AI-supported CRM, decision support, prompt generation and productivity assistants | LLMs, prompt engineering, REST APIs, JSON schemas |
+| ERP / CRM | Business process mapping, RBAC, lead-to-cash, inventory and reporting flows | ERPNext, CRM workflows, BPM, data models |
+| DevOps & Cloud | Repeatable infrastructure, CI/CD, GitOps, containerized services | Linux, Docker, Kubernetes/K3s, Terraform, GitHub Actions |
+| Observability | Logs, metrics, dashboards, uptime and service health | Prometheus, Grafana, Loki, rsyslog |
+| Networking | Secure remote access, routing labs, troubleshooting and segmentation | WireGuard, OpenVPN, DNS, SSH, tcpdump, nmap |
+
+---
+
+## Featured Builds
+
+| Project | What it does | Stack / Focus |
+| --- | --- | --- |
+| **Roadmind** | Full-stack AI project prompt studio that turns short ideas into structured prompt packages for coding agents such as Claude Code, Cursor and Copilot. | React, TypeScript, Express, Prisma, SQLite, NVIDIA NIM, Ollama |
+| **AI-Powered Operational CRM** | CRM and decision-support platform for customers, products, quotations, tasks, OCR-assisted intake and AI-driven operational recommendations. | React, TypeScript, Vite, Express, SQLite, RBAC, REST APIs |
+| **ERPNext Self-Hosted Architecture** | Production-minded ERPNext deployment plan connecting ERP workflows with backups, observability, RBAC and repeatable operations. | ERPNext, Frappe, Docker, Linux, K3s, Nginx, Prometheus, Grafana |
+| **vHealth** | AI-powered personal health assistant concept focused on structured health logs, safety-first guidance and trend dashboards. | Swift/iOS, LLM integration, privacy-first product design |
+| **vCalendar** | AI-powered calendar and productivity assistant for natural-language scheduling, conflict detection and daily planning. | Swift/iOS, calendar systems, NLP, productivity UX |
+| **[k8s-homelab](https://github.com/fufuizm/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
+| **[docker-compose-stacks](https://github.com/fufuizm/docker-compose-stacks)** | Reusable self-hosted service stacks for local and small-business infrastructure. | Docker, Compose, Traefik, Portainer |
+| **[terraform-aws-modules](https://github.com/fufuizm/terraform-aws-modules)** | Reusable AWS infrastructure modules for consistent cloud environments. | Terraform, AWS, HCL |
+| **[monitoring-stack](https://github.com/fufuizm/monitoring-stack)** | Observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
+| **[network-automation](https://github.com/fufuizm/network-automation)** | Network automation and troubleshooting workflows for repeatable infrastructure operations. | Python, Netmiko, NAPALM, Nornir |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### Cloud, DevOps & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📦 Containers & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-### 🔄 DevOps & CI/CD
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🌐 Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-
-### 💻 Development
+### Development & Data
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🗄️ Databases
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Business Systems, AI & Observability
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Current Roadmap
 
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [☸️ k8s-homelab](https://github.com/fufuizm/k8s-homelab) | Production-grade Kubernetes homelab with GitOps | K3s, ArgoCD, Prometheus |
-| [🏗️ terraform-aws-modules](https://github.com/fufuizm/terraform-aws-modules) | Reusable Terraform modules for AWS infrastructure | Terraform, HCL, AWS |
-| [🐳 docker-compose-stacks](https://github.com/fufuizm/docker-compose-stacks) | Production-ready self-hosted service stacks | Docker, Traefik, Portainer |
-| [🔗 network-automation](https://github.com/fufuizm/network-automation) | Multi-vendor network automation framework | Python, Netmiko, NAPALM |
-| [🚀 cicd-pipeline-templates](https://github.com/fufuizm/cicd-pipeline-templates) | Reusable CI/CD pipeline templates | GitHub Actions, ArgoCD |
-| [📊 monitoring-stack](https://github.com/fufuizm/monitoring-stack) | Complete observability stack on Kubernetes | Prometheus, Grafana, Loki |
-
-</div>
+- Publish Roadmind as a polished public repository with setup docs, screenshots and architecture notes.
+- Turn vHealth and vCalendar into clean Swift/iOS case-study repositories.
+- Build an ERPNext self-hosted lab with backup, observability and workflow documentation.
+- Keep improving DevOps foundations: Linux, Docker, Kubernetes, networking, CI/CD and cloud automation.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fufuizm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fufuizm&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufuizm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fufuizm&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a6bcc&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|------|-------|
-| ☸️ **Kubernetes** | Multi-cluster management, service mesh |
-| 🏗️ **IaC** | Terraform module development, Pulumi |
-| 🔄 **GitOps** | ArgoCD, Flux CD workflows |
-| 🌐 **Networking** | SD-WAN, zero-trust architecture |
-| 📚 **Learning** | CKA certification, AWS Solutions Architect |
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fufuizm&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fufuizm&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -137,12 +121,6 @@ experience:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fufuizm/fufuizm/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fufuizm/fufuizm/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/fufuizm/fufuizm/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+**Open to learning, building and collaborating around DevOps, cloud, networking, ERP/CRM systems and AI-supported business applications.**
 
 </div>
