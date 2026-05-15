@@ -31,6 +31,7 @@ focus:
   - Linux, containers, observability and automation
 current_direction:
   - Roadmind: AI project prompt studio for coding agents
+  - Operational CRM: AI-supported workflow and decision-support platform
   - vHealth: AI-powered personal health assistant concept
   - vCalendar: AI-powered scheduling and productivity assistant
   - ERPNext: self-hosted ERP operations architecture
@@ -55,7 +56,7 @@ current_direction:
 | Project | What it does | Stack / Focus |
 | --- | --- | --- |
 | **[Roadmind](https://github.com/fufuizm/roadmind-ai-prompt-studio)** | Full-stack AI project prompt studio that turns short ideas into structured prompt packages for coding agents such as Claude Code, Cursor and Copilot. | React, TypeScript, Express, Prisma, SQLite, NVIDIA NIM, Ollama |
-| **AI-Powered Operational CRM** | CRM and decision-support platform for customers, products, quotations, tasks, OCR-assisted intake and AI-driven operational recommendations. | React, TypeScript, Vite, Express, SQLite, RBAC, REST APIs |
+| **[AI-Powered Operational CRM](https://github.com/fufuizm/ai-operational-crm-decision-support)** | CRM and decision-support platform for customers, products, quotations, tasks, OCR-assisted intake and AI-driven operational recommendations. | React, TypeScript, Vite, Express, SQLite, RBAC, REST APIs |
 | **[ERPNext Self-Hosted Architecture](https://github.com/fufuizm/erpnext-selfhosted-ops)** | Production-minded ERPNext deployment plan connecting ERP workflows with backups, observability, RBAC and repeatable operations. | ERPNext, Frappe, Docker, Linux, K3s, Nginx, Prometheus, Grafana |
 | **[vHealth](https://github.com/fufuizm/vhealth-ai-assistant)** | AI-powered personal health assistant concept focused on structured health logs, safety-first guidance and trend dashboards. | Swift/iOS, LLM integration, privacy-first product design |
 | **[vCalendar](https://github.com/fufuizm/vcalendar-ai-assistant)** | AI-powered calendar and productivity assistant for natural-language scheduling, conflict detection and daily planning. | Swift/iOS, calendar systems, NLP, productivity UX |
@@ -102,6 +103,7 @@ current_direction:
 ## Current Roadmap
 
 - Add screenshots, architecture diagrams and setup notes to Roadmind.
+- Expand the operational CRM repository with entity diagrams, API maps and dashboard wireframes.
 - Convert vHealth and vCalendar from case-study repositories into source-backed Swift/iOS projects after a secret scan.
 - Expand the ERPNext operations repo with Docker/Kubernetes templates, backup/restore scripts and monitoring dashboards.
 - Keep improving DevOps foundations: Linux, Docker, Kubernetes, networking, CI/CD and cloud automation.
