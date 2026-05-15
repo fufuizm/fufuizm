@@ -54,11 +54,11 @@ current_direction:
 
 | Project | What it does | Stack / Focus |
 | --- | --- | --- |
-| **Roadmind** | Full-stack AI project prompt studio that turns short ideas into structured prompt packages for coding agents such as Claude Code, Cursor and Copilot. | React, TypeScript, Express, Prisma, SQLite, NVIDIA NIM, Ollama |
+| **[Roadmind](https://github.com/fufuizm/roadmind-ai-prompt-studio)** | Full-stack AI project prompt studio that turns short ideas into structured prompt packages for coding agents such as Claude Code, Cursor and Copilot. | React, TypeScript, Express, Prisma, SQLite, NVIDIA NIM, Ollama |
 | **AI-Powered Operational CRM** | CRM and decision-support platform for customers, products, quotations, tasks, OCR-assisted intake and AI-driven operational recommendations. | React, TypeScript, Vite, Express, SQLite, RBAC, REST APIs |
-| **ERPNext Self-Hosted Architecture** | Production-minded ERPNext deployment plan connecting ERP workflows with backups, observability, RBAC and repeatable operations. | ERPNext, Frappe, Docker, Linux, K3s, Nginx, Prometheus, Grafana |
-| **vHealth** | AI-powered personal health assistant concept focused on structured health logs, safety-first guidance and trend dashboards. | Swift/iOS, LLM integration, privacy-first product design |
-| **vCalendar** | AI-powered calendar and productivity assistant for natural-language scheduling, conflict detection and daily planning. | Swift/iOS, calendar systems, NLP, productivity UX |
+| **[ERPNext Self-Hosted Architecture](https://github.com/fufuizm/erpnext-selfhosted-ops)** | Production-minded ERPNext deployment plan connecting ERP workflows with backups, observability, RBAC and repeatable operations. | ERPNext, Frappe, Docker, Linux, K3s, Nginx, Prometheus, Grafana |
+| **[vHealth](https://github.com/fufuizm/vhealth-ai-assistant)** | AI-powered personal health assistant concept focused on structured health logs, safety-first guidance and trend dashboards. | Swift/iOS, LLM integration, privacy-first product design |
+| **[vCalendar](https://github.com/fufuizm/vcalendar-ai-assistant)** | AI-powered calendar and productivity assistant for natural-language scheduling, conflict detection and daily planning. | Swift/iOS, calendar systems, NLP, productivity UX |
 | **[k8s-homelab](https://github.com/fufuizm/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
 | **[docker-compose-stacks](https://github.com/fufuizm/docker-compose-stacks)** | Reusable self-hosted service stacks for local and small-business infrastructure. | Docker, Compose, Traefik, Portainer |
 | **[terraform-aws-modules](https://github.com/fufuizm/terraform-aws-modules)** | Reusable AWS infrastructure modules for consistent cloud environments. | Terraform, AWS, HCL |
@@ -101,9 +101,9 @@ current_direction:
 
 ## Current Roadmap
 
-- Publish Roadmind as a polished public repository with setup docs, screenshots and architecture notes.
-- Turn vHealth and vCalendar into clean Swift/iOS case-study repositories.
-- Build an ERPNext self-hosted lab with backup, observability and workflow documentation.
+- Add screenshots, architecture diagrams and setup notes to Roadmind.
+- Convert vHealth and vCalendar from case-study repositories into source-backed Swift/iOS projects after a secret scan.
+- Expand the ERPNext operations repo with Docker/Kubernetes templates, backup/restore scripts and monitoring dashboards.
 - Keep improving DevOps foundations: Linux, Docker, Kubernetes, networking, CI/CD and cloud automation.
 
 ---
