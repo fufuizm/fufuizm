@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-supported+business+systems;Designing+DevOps%2C+cloud+and+network+infrastructure;Connecting+ERP%2FCRM+workflows+with+real+technical+operations;Turning+project+ideas+into+production-minded+systems)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=fufuizm&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=furkan-sarica&color=58a6ff&style=flat-square&label=Profile+Views)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-sarica/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fufuizm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkan-sarica)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarica.furkan@icloud.com)
 
 </div>
@@ -30,11 +30,6 @@ focus:
   - AI-supported productivity and decision-support tools
   - Linux, containers, observability and automation
 current_direction:
-  - Roadmind: AI project prompt studio for coding agents
-  - Operational CRM: AI-supported workflow and decision-support platform
-  - vHealth: AI-powered personal health assistant concept
-  - vCalendar: AI-powered scheduling and productivity assistant
-  - ERPNext: self-hosted ERP operations architecture
 ```
 
 ---
@@ -55,16 +50,11 @@ current_direction:
 
 | Project | What it does | Stack / Focus |
 | --- | --- | --- |
-| **[Roadmind](https://github.com/fufuizm/roadmind-ai-prompt-studio)** | Full-stack AI project prompt studio that turns short ideas into structured prompt packages for coding agents such as Claude Code, Cursor and Copilot. | React, TypeScript, Express, Prisma, SQLite, NVIDIA NIM, Ollama |
-| **[AI-Powered Operational CRM](https://github.com/fufuizm/ai-operational-crm-decision-support)** | CRM and decision-support platform for customers, products, quotations, tasks, OCR-assisted intake and AI-driven operational recommendations. | React, TypeScript, Vite, Express, SQLite, RBAC, REST APIs |
-| **[ERPNext Self-Hosted Architecture](https://github.com/fufuizm/erpnext-selfhosted-ops)** | Production-minded ERPNext deployment plan connecting ERP workflows with backups, observability, RBAC and repeatable operations. | ERPNext, Frappe, Docker, Linux, K3s, Nginx, Prometheus, Grafana |
-| **[vHealth](https://github.com/fufuizm/vhealth-ai-assistant)** | AI-powered personal health assistant concept focused on structured health logs, safety-first guidance and trend dashboards. | Swift/iOS, LLM integration, privacy-first product design |
-| **[vCalendar](https://github.com/fufuizm/vcalendar-ai-assistant)** | AI-powered calendar and productivity assistant for natural-language scheduling, conflict detection and daily planning. | Swift/iOS, calendar systems, NLP, productivity UX |
-| **[k8s-homelab](https://github.com/fufuizm/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
-| **[docker-compose-stacks](https://github.com/fufuizm/docker-compose-stacks)** | Reusable self-hosted service stacks for local and small-business infrastructure. | Docker, Compose, Traefik, Portainer |
-| **[terraform-aws-modules](https://github.com/fufuizm/terraform-aws-modules)** | Reusable AWS infrastructure modules for consistent cloud environments. | Terraform, AWS, HCL |
-| **[monitoring-stack](https://github.com/fufuizm/monitoring-stack)** | Observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
-| **[network-automation](https://github.com/fufuizm/network-automation)** | Network automation and troubleshooting workflows for repeatable infrastructure operations. | Python, Netmiko, NAPALM, Nornir |
+| **[k8s-homelab](https://github.com/furkan-sarica/k8s-homelab)** | Production-style Kubernetes homelab with GitOps, ingress, monitoring and automated deployments. | K3s, ArgoCD, Prometheus, Grafana |
+| **[docker-compose-stacks](https://github.com/furkan-sarica/docker-compose-stacks)** | Reusable self-hosted service stacks for local and small-business infrastructure. | Docker, Compose, Traefik, Portainer |
+| **[terraform-aws-modules](https://github.com/furkan-sarica/terraform-aws-modules)** | Reusable AWS infrastructure modules for consistent cloud environments. | Terraform, AWS, HCL |
+| **[monitoring-stack](https://github.com/furkan-sarica/monitoring-stack)** | Observability stack for service health, metrics, dashboards and alerting. | Prometheus, Grafana, Loki, Alertmanager |
+| **[network-automation](https://github.com/furkan-sarica/network-automation)** | Network automation and troubleshooting workflows for repeatable infrastructure operations. | Python, Netmiko, NAPALM, Nornir |
 
 ---
 
@@ -102,10 +92,6 @@ current_direction:
 
 ## Current Roadmap
 
-- Add screenshots, architecture diagrams and setup notes to Roadmind.
-- Expand the operational CRM repository with entity diagrams, API maps and dashboard wireframes.
-- Convert vHealth and vCalendar from case-study repositories into source-backed Swift/iOS projects after a secret scan.
-- Expand the ERPNext operations repo with Docker/Kubernetes templates, backup/restore scripts and monitoring dashboards.
 - Keep improving DevOps foundations: Linux, Docker, Kubernetes, networking, CI/CD and cloud automation.
 
 ---
@@ -114,8 +100,8 @@ current_direction:
 
 <div align="center">
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fufuizm&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fufuizm&layout=compact&theme=github_dark&hide_border=true)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan-sarica&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-sarica&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
